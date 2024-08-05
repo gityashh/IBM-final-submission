@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Rejouice;
+    src: url(./fonts/Rejouice-Headline.woff2);
+}
+
 *{
     margin: 0%;
     padding: 0%;
@@ -5,7 +10,7 @@
 }
 
 html,body {
-    font-family: Rejouice, sans-serif;
+    font-family: Rejouice;
     height: 100%;
     width: 100%;
     overflow-x: hidden;
